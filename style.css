@@ -26,6 +26,10 @@ nav{
   text-align:center;
 }
 
+ul{ test-align:center;
+   
+  }
+
 p{  text-align:center;
  }
 div{
@@ -76,7 +80,9 @@ hr {
   /* color: #003049; */
 }
 
-
+ol{ test-align:center;
+   
+  }
 footer {
 
   text-align: center;
