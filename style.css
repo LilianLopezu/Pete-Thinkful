@@ -26,9 +26,7 @@ nav{
   text-align:center;
 }
 
-ul{ test-align:center;
-   
-  }
+
 li{text-align:center;
   }
 p{  text-align:center;
@@ -82,7 +80,8 @@ hr {
 }
 
 ol{ test-align:center;
-   
+   li{text-align:center;
+  }
   }
 footer {
 
