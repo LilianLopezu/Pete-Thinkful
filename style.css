@@ -29,18 +29,8 @@ h2 {
 article{ padding:50px 0;
        }
 article div {
-  test-align:center;
+  text-align:center;
   width 100%;}
-
-
-  
-
-/* div{
-  text-align:center;} */
-
-header{  text-align:center;
-      }
-
 
 
 p {
