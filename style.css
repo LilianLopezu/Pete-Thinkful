@@ -27,8 +27,8 @@ nav{
 }
 
 
-li{text-align:center;
-  }
+
+  
 p{  text-align:center;
  }
 div{
@@ -79,9 +79,9 @@ hr {
   /* color: #003049; */
 }
 
-ol{ test-align:center;
-   li{text-align:center;
-  }
+ol{ list-style-position:center;
+   
+  
   }
 footer {
 
