@@ -29,7 +29,8 @@ nav{
 ul{ test-align:center;
    
   }
-
+li{text-align:center;
+  }
 p{  text-align:center;
  }
 div{
