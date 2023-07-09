@@ -63,6 +63,8 @@ hr {
   border: 2px solid #003049;
   text-align: center;
   /* color: #003049; */
+  margin:auto;
+  display: block;
 }
 
 li{ list-style-position:center;
