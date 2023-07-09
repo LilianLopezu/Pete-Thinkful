@@ -46,9 +46,9 @@ div {
 }
 
 img {
-  width: 200%;
+  width: 100%;
   max-width: 200px;
-  height: 200%;
+  height: auto;
 }
 
 hr {
