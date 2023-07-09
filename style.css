@@ -17,14 +17,16 @@ h3 {
   text-align: center;
 }
 
-div{ text-align: center;
-   }
+/* div{ text-align: center;
+   } */
 h2 {
   text-align: center;
 }
 nav{
   text-align:center;
 }
+article{ padding:50px 0;
+       }
 
 
 
