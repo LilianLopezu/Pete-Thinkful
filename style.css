@@ -17,8 +17,7 @@ h3 {
   text-align: center;
 }
 
-/* div{ text-align: center;
-   } */
+
 
 h2 {
   text-align: center;
@@ -37,7 +36,7 @@ p {
   line-height: 1.5;
 }
 
-/* The div container constrains the content width within the main container to 600px */
+
 div {
   margin: auto;
   width: 600px;
@@ -67,10 +66,7 @@ hr {
   display: block;
 }
 
-/* li{ list-style-position:center;
-   
-  
-  } */
+ 
 footer {
 
   text-align: center;
